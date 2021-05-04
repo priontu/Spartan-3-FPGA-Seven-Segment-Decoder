@@ -1,0 +1,4 @@
+vhdl isim_temp "segmentdecoder.vhd"
+vhdl isim_temp "clock_divider.vhd"
+vhdl isim_temp "segmentdriver.vhd"
+vhdl isim_temp "topdesign.vhd"
