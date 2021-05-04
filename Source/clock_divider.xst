@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/Lab3/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/Lab3/xst"
+elaborate
+-ifn clock_divider.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/Lab3/topdesign_isim_beh.exe" -prj "/home/ise/Lab3/topdesign_beh.prj" "work.topdesign" 

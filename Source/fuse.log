@@ -1,0 +1,27 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/ise/Lab3/topdesign_isim_beh.exe -prj /home/ise/Lab3/topdesign_beh.prj work.topdesign 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/Lab3/segmentdecoder.vhd" into library work
+Parsing VHDL file "/home/ise/Lab3/clock_divider.vhd" into library work
+Parsing VHDL file "/home/ise/Lab3/segmentdriver.vhd" into library work
+Parsing VHDL file "/home/ise/Lab3/topdesign.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96768 KB
+Fuse CPU Usage: 1340 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity segmentdecoder [segmentdecoder_default]
+Compiling architecture behavioral of entity clock_divider [clock_divider_default]
+Compiling architecture behavioral of entity segmentdriver [segmentdriver_default]
+Compiling architecture behavioral of entity topdesign
+Time Resolution for simulation is 1ps.
+Compiled 11 VHDL Units
+Built simulation executable /home/ise/Lab3/topdesign_isim_beh.exe
+Fuse Memory Usage: 112040 KB
+Fuse CPU Usage: 1490 ms
+GCC CPU Usage: 300 ms
